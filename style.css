@@ -1,0 +1,35 @@
+body {
+	font-family: sans-serif;
+	padding: 1rem;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 300;
+}
+
+div {
+	background-color: #DCDCDC;
+	padding: 0.5rem;
+	border-radius: 1px;
+}
+
+.editable {
+	color: red;
+}
+
+button {
+	padding: 0.5rem 1rem;
+	text-transform: uppercase;
+	border-radius: 3px;
+	border: none;
+	font-weight: 500;
+	color: #fff;
+	font-size: 1rem;
+	letter-spacing: 0.1rem;
+}
+
+.edit {
+	background-color: red;
+}
+
+.save {
+	background-color: green;
+}
